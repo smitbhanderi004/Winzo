@@ -5,7 +5,7 @@
    "qureka":"https://play258.atmequiz.com/",
    "qureka_splash":"0",
    "qureka_status":"0",
-   "qureka_dailog":"1",
+   "qureka_dailog":"0",
    "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
    "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
